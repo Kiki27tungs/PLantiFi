@@ -1,7 +1,7 @@
 🌿 PLantiFi
 PlantiFi is an AI-powered web application that helps farmers detect plant diseases from leaf images and receive multilingual treatment advice. It also offers seasonal crop planning tips and interactive agricultural insights—all designed to be accessible, offline-friendly, and farmer-first.
 
-🔍 Features
+Features:
 🧠 AI Disease Detection: Upload leaf images and get instant diagnosis using a trained CNN model.
 
 🗣️ Multilingual Support: Voice and text feedback in multiple Indian languages.
